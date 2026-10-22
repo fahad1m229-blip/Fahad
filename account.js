@@ -1,22 +1,22 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (free fire top up)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "FAhad";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/fahad1m1";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/fahad_1m";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://youtube.com/@bgfahad.1?si=QjE8jdEME1_vQOIr";
 
 // =======================================================
 // NOTIFICATION TEXT
